@@ -1,5 +1,5 @@
 # Project Link
 
-https://linkedin-clone-2dc4d.web.app/
+https://linkedin-clone-417c7.web.app/
 
-## Build from Sonny Sangha YouTube Tutorial LinkedIn Clone
+Live Build of linkedin
